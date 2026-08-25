@@ -49,7 +49,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=menukadeshan94&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Menuka's GitHub stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=menukadeshan94&theme=github-dark-blue&hide_border=true" alt="Menuka's GitHub streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=menukadeshan94&theme=github-dark-blue&hide_border=true&cache_seconds=1" alt="Menuka's GitHub streak" width="48%" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=menukadeshan94&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
 
