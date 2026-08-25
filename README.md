@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Menuka+Deshan+%F0%9F%91%8B;IT+%2F+Software+Staff+%40+NSBM+Green+University;MSc+in+Information+Technology+(In+Progress);I+love+tackling+challenging+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Menuka+Deshan+%F0%9F%91%8B;IT+%2F+Software+Staff+%40+NSBM+Green+University;MSc+in+Information+Technology+(In+Progress);I+love+tackling+challenging+problems." alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=menukadeshan94&label=Profile%20Views&color=2ea043&style=flat" alt="profile views" />
@@ -48,16 +48,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=menukadeshan94&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Menuka's GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=menukadeshan94&theme=github-dark-blue&hide_border=true" alt="Menuka's GitHub streak" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=menukadeshan94&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Menuka's GitHub stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=menukadeshan94&theme=github-dark-blue&hide_border=true" alt="Menuka's GitHub streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menukadeshan94&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=menukadeshan94&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=menukadeshan94&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-trophies.vercel.app/?username=menukadeshan94&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
@@ -68,10 +68,10 @@
 <div align="center">
 
 <a href="https://github.com/menukadeshan94/Intellecto_v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=menukadeshan94&repo=Intellecto_v2&theme=github_dark&hide_border=true" alt="Intellecto_v2" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=menukadeshan94&repo=Intellecto_v2&theme=github_dark&hide_border=true" alt="Intellecto_v2" />
 </a>
 <a href="https://github.com/menukadeshan94/menukadeshan94">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=menukadeshan94&repo=menukadeshan94&theme=github_dark&hide_border=true" alt="Profile Repo" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=menukadeshan94&repo=menukadeshan94&theme=github_dark&hide_border=true" alt="Profile Repo" />
 </a>
 
 </div>
