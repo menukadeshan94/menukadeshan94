@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🏢 Working as **IT / Software Staff** at **NSBM Green University**
-- 🎓 Currently reading for my **MSc in Information Technology**
+- 🎓 MSc in Information Technology - Distinction | Batch Top
 - 🌱 Always learning — deepening my skills across web development, backend systems, and IT/networking
 - 💡 I love taking on **challenging work** — it's how I grow
 - 😄 Pronouns: **He / Him**
